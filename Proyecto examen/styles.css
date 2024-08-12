@@ -1,0 +1,108 @@
+
+<style>
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Estilos generales */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+
+main {
+    padding: 20px;
+}
+
+/* Encabezados */
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.contacto {
+    text-align: center;
+    padding: 20px;
+}
+
+.contacto ul {
+    list-style: none;
+    padding: 0;
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+
+.contacto {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 0 auto;  
+  max-width: 600px; 
+}
+
+.contacto h2 {
+  margin-bottom: 15px;
+}
+
+.contacto p {
+  margin-bottom: 10px;
+}
+
+.contacto ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contacto li {
+  margin-bottom: 10px;
+}
+
+.contacto li strong {
+  font-weight: bold;
+}
+
+
+iframe {
+  margin-top: 20px;
+}
+
+
+</style>
